@@ -50,9 +50,9 @@
     },
     {
       "id": "2314",
-      "username": "admin",
+      "username": "administrador",
       "email": "os.clavijo@gmail.com",
-      "password": "admin123",
+      "password": "admin1234",
       "isactive": true
     }
   ]
